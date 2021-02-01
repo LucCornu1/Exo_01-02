@@ -143,6 +143,9 @@
     <ClCompile Include="CPointCol.cpp" />
     <ClCompile Include="CVect.cpp" />
     <ClCompile Include="CVectB.cpp" />
+    <ClCompile Include="CVectOK.cpp" />
+    <ClCompile Include="int2d.cpp" />
+    <ClCompile Include="int2DB.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -150,6 +153,9 @@
     <ClInclude Include="CPointCol.h" />
     <ClInclude Include="CVect.h" />
     <ClInclude Include="CVectB.h" />
+    <ClInclude Include="CVectOK.h" />
+    <ClInclude Include="int2d.h" />
+    <ClInclude Include="int2DB.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

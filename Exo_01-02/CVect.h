@@ -2,7 +2,7 @@
 
 class CVect
 {
-private:
+protected:
 	int* m_nV;
 	int m_nMin;
 	int m_nMax;
